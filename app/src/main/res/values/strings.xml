@@ -1,0 +1,8 @@
+<resources>
+    <!--Application strings-->
+    <string name="app_name">Android1_Lesson1</string>
+    <string name="hello_world">Hello World!!!</string>
+
+    <!--Errors Strings-->
+    <string name="error.dump.memory">DumpMemory</string>
+</resources>

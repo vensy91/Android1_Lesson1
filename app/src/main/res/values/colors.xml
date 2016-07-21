@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Material Design Color-->
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--Text Color-->
+    <color name="color_black">#000000</color>
+    <color name="color_soft_white">#c8ffffff</color>
+    <color name="color_red">#e7ed0808</color>
+
+</resources>
